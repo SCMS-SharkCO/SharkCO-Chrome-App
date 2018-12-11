@@ -1,0 +1,18 @@
+{
+  "name": "SharkCO",
+  "version": "0.1.0",
+  "manifest_version":2,
+  "description": "The SharkCO Chrome App",
+  "app":{
+    "urls": ["https://scms-sharkco.github.io/"],
+    "launch":{
+      "web_url": "https://scms-sharkco.github.io/"
+    }
+  },
+
+
+  "icons":{
+    "128": "favicon.png"
+  }
+
+}
